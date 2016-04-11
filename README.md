@@ -1,7 +1,6 @@
 # Craigs-list
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application was designed to have most of the core functionality of the popular user trading website Craigslist.  Users can post items which can be responded to by other users in order to make trades or housing arrangements.  
 
 ## Prerequisites
 
